@@ -20,4 +20,4 @@ All participants should agree to abide by the [Data Carpentry Code of Conduct](h
 
 ## Authors
 
-Shell Metabarcoding is authored and maintained by the [community](https://github.com/Bedxxe/Introduction-to-R-for-Metabarcoding/network/members). 
+R Metabarcoding is authored and maintained by the [community](https://github.com/Bedxxe/Introduction-to-R-for-Metabarcoding/network/members). 
